@@ -9,3 +9,4 @@ Para esse projeto eu estou utilizando as seguintes tecnologias:
 - [ReactJS](https://react.dev/learn)
 - [API Openweathermap](https://openweathermap.org)
   
+<img src="https://github.com/andrezadesousa/weather-app-reactJS/blob/main/src/components/assets/bg.png" />
